@@ -1,0 +1,13 @@
+Last updated: 2026-08-14T14:56:15
+
+Files (7):
+  ActivityLog.tsx
+  ArchitecturePanel.tsx
+  ClipboardWarningModal.tsx
+  DropZone.tsx
+  FloatingHUD.tsx
+  QueueItem.tsx
+  code.txt
+
+Subdirectories (0):
+  (none)
